@@ -45,12 +45,6 @@ The application uses **Java Swing** to provide the graphical user interface.
 * Book appointments between doctors and patients.
 * Manage doctor-patient appointment information.
 
-### 💳 Smart Billing
-
-* Automatically calculates patient bills based on disease type.
-* Different diseases have different treatment costs.
-* For example, major procedures such as heart surgery have higher costs than treatments for common illnesses such as flu.
-
 ## 🛠️ Technologies Used
 
 * **Java**
